@@ -5,6 +5,7 @@ import { Projects } from "./components/project";
 
 import "./style.css";
 import { Contact } from "./components/contact";
+import { Footer } from "./components/footer";
 
 Aos.init();
 
@@ -15,6 +16,7 @@ function App() {
       <Top />
       <Projects />
       <Contact />
+      <Footer />
     </div>
   );
 }
