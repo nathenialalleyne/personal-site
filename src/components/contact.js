@@ -7,7 +7,7 @@ export function Contact() {
         </h3>
         <div className=" flex w-2/4 flex-col  m-10">
           <form
-            action="https://formsubmit.co/nathenialalleyne@gmail.com"
+            action="https://formsubmit.co/b54ff88cd0354e87cf39b74e1a9a96f4"
             method="POST"
             className="flex flex-col gap-5"
           >
