@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd9de4d1.css",
-    "main.js": "/static/js/main.9aefb9da.js",
-    "static/media/E-Commerce-Site.png": "/static/media/E-Commerce-Site.eb550c601f6fae343026.png",
-    "static/media/Uber-Home-Page.png": "/static/media/Uber-Home-Page.a4773682b8d1be527972.png",
-    "static/media/Weather-App.png": "/static/media/Weather-App.de0d1b7a37ff012a6ef6.png",
-    "static/media/Personal-Portfolio-Site.png": "/static/media/Personal-Portfolio-Site.837d691d45252c30e959.png",
-    "index.html": "/index.html",
-    "main.dd9de4d1.css.map": "/static/css/main.dd9de4d1.css.map",
-    "main.9aefb9da.js.map": "/static/js/main.9aefb9da.js.map"
+    "main.css": "/personal-site/static/css/main.dd9de4d1.css",
+    "main.js": "/personal-site/static/js/main.655c6f37.js",
+    "static/media/E-Commerce-Site.png": "/personal-site/static/media/E-Commerce-Site.eb550c601f6fae343026.png",
+    "static/media/Uber-Home-Page.png": "/personal-site/static/media/Uber-Home-Page.a4773682b8d1be527972.png",
+    "static/media/Weather-App.png": "/personal-site/static/media/Weather-App.de0d1b7a37ff012a6ef6.png",
+    "static/media/Personal-Portfolio-Site.png": "/personal-site/static/media/Personal-Portfolio-Site.837d691d45252c30e959.png",
+    "index.html": "/personal-site/index.html",
+    "main.dd9de4d1.css.map": "/personal-site/static/css/main.dd9de4d1.css.map",
+    "main.655c6f37.js.map": "/personal-site/static/js/main.655c6f37.js.map"
   },
   "entrypoints": [
     "static/css/main.dd9de4d1.css",
-    "static/js/main.9aefb9da.js"
+    "static/js/main.655c6f37.js"
   ]
 }
